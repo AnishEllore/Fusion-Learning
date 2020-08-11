@@ -1,0 +1,2 @@
+printing other results
+{'global model testing accuracy': 82.30000138282776}

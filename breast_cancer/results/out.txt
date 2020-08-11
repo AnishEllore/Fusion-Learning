@@ -1,0 +1,6 @@
+local model testing accuracies over nodes
+[100.0, 90.90909361839294, 90.90909361839294, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 90.90909361839294]
+global model testing accuracy over nodes
+[100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 90.90909361839294]
+printing other results
+{'new model testing accuracy': 86.36363744735718, 'with new model and old data points': 97.81022071838379, 'With old model and old All': 97.81022071838379}
